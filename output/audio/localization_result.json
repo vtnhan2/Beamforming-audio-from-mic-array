@@ -1,0 +1,98 @@
+{
+  "filename": "audio/original_8channels.pcm",
+  "sample_rate": 16000,
+  "n_channels": 8,
+  "duration": 18.4639375,
+  "channel_analysis": [
+    {
+      "channel": 1,
+      "rms": 2943.160890177761,
+      "max_amplitude": 22332,
+      "zcr": 0.1320716396489102,
+      "has_audio": true
+    },
+    {
+      "channel": 2,
+      "rms": 3475.3053963781276,
+      "max_amplitude": 27209,
+      "zcr": 0.12381568124350507,
+      "has_audio": true
+    },
+    {
+      "channel": 3,
+      "rms": 5626.651797990625,
+      "max_amplitude": 32768,
+      "zcr": 0.12745791627598393,
+      "has_audio": true
+    },
+    {
+      "channel": 4,
+      "rms": 6410.583076180289,
+      "max_amplitude": 32768,
+      "zcr": 0.17346652088699932,
+      "has_audio": true
+    },
+    {
+      "channel": 5,
+      "rms": 9891.045752011598,
+      "max_amplitude": 32768,
+      "zcr": 0.15515041144392955,
+      "has_audio": true
+    },
+    {
+      "channel": 6,
+      "rms": 1.8869156335435566,
+      "max_amplitude": 9,
+      "zcr": 0.4792416297986277,
+      "has_audio": false
+    },
+    {
+      "channel": 7,
+      "rms": 1.8058488392520131,
+      "max_amplitude": 9,
+      "zcr": 0.48611651767127134,
+      "has_audio": false
+    },
+    {
+      "channel": 8,
+      "rms": 5081.206951395331,
+      "max_amplitude": 32768,
+      "zcr": 0.16224870778510814,
+      "has_audio": true
+    }
+  ],
+  "tdoas": [
+    0.0,
+    6.25e-05,
+    6.25e-05,
+    6.25e-05,
+    0.0,
+    -0.0011875,
+    -0.00125,
+    6.25e-05
+  ],
+  "localization": {
+    "position_cartesian": [
+      0.8779037770281097,
+      1.8833988310843306,
+      0.0
+    ],
+    "position_spherical": {
+      "distance": 2.0779572177140806,
+      "azimuth": 65.00848454829742,
+      "elevation": 0.0
+    }
+  },
+  "active_channels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    8
+  ],
+  "silent_channels": [
+    6,
+    7
+  ]
+}

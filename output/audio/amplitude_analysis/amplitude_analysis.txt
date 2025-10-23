@@ -1,0 +1,180 @@
+================================================================================
+AMPLITUDE ANALYSIS REPORT
+================================================================================
+
+Channel 1:
+  Status: CO AUDIO
+  Amplitude Range:
+    Min:            -20609.00
+    Max:             22332.00
+    Peak-to-Peak:    42941.00
+  Central Tendency:
+    Mean:               -1.03
+    Median:            -38.00
+    RMS:              2943.16
+  Variability:
+    Std Dev:          2943.16
+    Dynamic Range:      17.60 dB
+  Percentiles:
+    1%               21.00
+    5%              103.00
+    25%             572.00
+    50%            1474.00
+    75%            3003.00
+    95%            6202.00
+    99%            9231.78
+
+Channel 2:
+  Status: CO AUDIO
+  Amplitude Range:
+    Min:            -25283.00
+    Max:             27209.00
+    Peak-to-Peak:    52492.00
+  Central Tendency:
+    Mean:               -1.07
+    Median:            -52.00
+    RMS:              3475.31
+  Variability:
+    Std Dev:          3475.31
+    Dynamic Range:      17.87 dB
+  Percentiles:
+    1%               25.00
+    5%              121.00
+    25%             673.00
+    50%            1737.00
+    75%            3538.00
+    95%            7312.00
+    99%           10870.56
+
+Channel 3:
+  Status: CO AUDIO
+  Amplitude Range:
+    Min:            -32768.00
+    Max:             32767.00
+    Peak-to-Peak:    65535.00
+  Central Tendency:
+    Mean:               -1.04
+    Median:            -36.00
+    RMS:              5626.65
+  Variability:
+    Std Dev:          5626.65
+    Dynamic Range:      15.30 dB
+  Percentiles:
+    1%               30.00
+    5%              146.00
+    25%             838.00
+    50%            2254.00
+    75%            4971.00
+    95%           12195.00
+    99%           20423.00
+
+Channel 4:
+  Status: CO AUDIO
+  Amplitude Range:
+    Min:            -32768.00
+    Max:             32767.00
+    Peak-to-Peak:    65535.00
+  Central Tendency:
+    Mean:               -0.86
+    Median:            -29.00
+    RMS:              6410.58
+  Variability:
+    Std Dev:          6410.58
+    Dynamic Range:      14.17 dB
+  Percentiles:
+    1%               29.00
+    5%              150.00
+    25%             869.00
+    50%            2379.00
+    75%            5428.00
+    95%           14408.00
+    99%           23787.56
+
+Channel 5:
+  Status: CO AUDIO
+  Amplitude Range:
+    Min:            -32768.00
+    Max:             32767.00
+    Peak-to-Peak:    65535.00
+  Central Tendency:
+    Mean:                0.45
+    Median:            -80.00
+    RMS:              9891.05
+  Variability:
+    Std Dev:          9891.05
+    Dynamic Range:      10.40 dB
+  Percentiles:
+    1%               35.00
+    5%              180.00
+    25%            1124.00
+    50%            3315.00
+    75%            8613.00
+    95%           24438.00
+    99%           32486.00
+
+Channel 6:
+  Status: KHONG CO AUDIO
+  Amplitude Range:
+    Min:                -9.00
+    Max:                 9.00
+    Peak-to-Peak:       18.00
+  Central Tendency:
+    Mean:               -0.59
+    Median:             -1.00
+    RMS:                 1.89
+  Variability:
+    Std Dev:             1.79
+    Dynamic Range:      14.02 dB
+  Percentiles:
+    1%                0.00
+    5%                0.00
+    25%               1.00
+    50%               1.00
+    75%               2.00
+    95%               4.00
+    99%               5.00
+
+Channel 7:
+  Status: KHONG CO AUDIO
+  Amplitude Range:
+    Min:                -9.00
+    Max:                 8.00
+    Peak-to-Peak:       17.00
+  Central Tendency:
+    Mean:               -0.59
+    Median:             -1.00
+    RMS:                 1.81
+  Variability:
+    Std Dev:             1.71
+    Dynamic Range:      13.41 dB
+  Percentiles:
+    1%                0.00
+    5%                0.00
+    25%               1.00
+    50%               1.00
+    75%               2.00
+    95%               4.00
+    99%               5.00
+
+Channel 8:
+  Status: CO AUDIO
+  Amplitude Range:
+    Min:            -32768.00
+    Max:             32767.00
+    Peak-to-Peak:    65535.00
+  Central Tendency:
+    Mean:               -1.06
+    Median:            -33.00
+    RMS:              5081.21
+  Variability:
+    Std Dev:          5081.21
+    Dynamic Range:      16.19 dB
+  Percentiles:
+    1%               28.00
+    5%              142.00
+    25%             805.00
+    50%            2128.00
+    75%            4581.00
+    95%           11073.00
+    99%           18101.78
+
