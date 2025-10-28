@@ -37,7 +37,7 @@ add_library(reference_beamforming
   src/core/fractional_delay.cpp
   src/core/butterworth_filter.cpp
   src/core/frequency_masking.cpp
-  src/core/reference_beamformer.cpp
+  src/core/PhantomEcho.cpp
 )
 
 target_include_directories(reference_beamforming

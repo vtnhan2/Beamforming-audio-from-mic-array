@@ -1,4 +1,4 @@
-#include "core/reference_beamformer.h"
+#include "core/PhantomEcho.h"
 
 #include "core/gcc_phat.h"
 #include "core/coherence.h"
@@ -66,7 +66,6 @@ BeamformingResult ReferenceBeamformer::extractVocalFromReference(
         }
     }
 
-    // Optional masking stage to match Python pipeline (300-3000 Hz default)
     auto masked = masker.applyMasking(output, reference, sampleRate, 300.0, 3000.0);
 
     BeamformingResult res;
